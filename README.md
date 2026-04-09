@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-li<img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/8d2f6e99-a60b-44a0-9af2-30ad70152fbf" />
+  <img src="https://your-banner-image-li<img width="1536" height="1024" alt="Frontend development banner illustration" src="" <img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/d9fa7216-c921-4777-988e-6bdc09e04d50" />
+/>
 nk.com/banner.png" alt="Banner" width="100%" />
 </p>
 
