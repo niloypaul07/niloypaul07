@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-li<img width="1536" height="1024" alt="Frontend development banner illustration" src="" <img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/d9fa7216-c921-4777-988e-6bdc09e04d50" />
+<img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/a37d9397-2c7e-4e87-bacb-7bd1856d5e83" />
+
 />
-nk.com/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Niloy Paul from Bangladesh</h1>
