@@ -1,9 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://your-banner-image-li<img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/8d2f6e99-a60b-44a0-9af2-30ad70152fbf" />
+nk.com/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Niloy Paul from Bangladesh</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Lover</h3>
 
 ---
@@ -13,7 +14,7 @@
 - 💻 Frontend Developer passionate about building modern web apps  
 - 🌱 Currently learning: **Next.js / TypeScript / Performance Optimization**  
 - ⚡ Love working with clean UI & smooth UX  
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **niloypaul81@gmail.com**
 
 ---
 
@@ -43,22 +44,14 @@
 
 ---
 
-## 🔥 Featured Projects
-
-- 🚀 [Project Name](https://github.com/yourusername/project)
-- 🎯 [Another Project](https://github.com/yourusername/project)
-- 💡 [Cool UI Project](https://github.com/yourusername/project)
-
----
-
 ## 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
-  <a href="https://twitter.com/yourprofile">Twitter</a> |
-  <a href="https://portfolio.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/niloypaul/">LinkedIn</a> |
+  
+  <a href="https://github.com/niloypaul07">Portfolio</a>
 </p>
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Niloy Paul](https://github.com/niloypaul07)
