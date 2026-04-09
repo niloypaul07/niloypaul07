@@ -1,11 +1,10 @@
 <!-- Banner Image -->
-<p align="center">
-<img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/a37d9397-2c7e-4e87-bacb-7bd1856d5e83" />
 
-/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Niloy Paul from Bangladesh</h1>
+<p align="center">
+<img width="1536" height="1024" alt="Frontend development banner illustration" src="https://github.com/user-attachments/assets/a37d9397-2c7e-4e87-bacb-7bd1856d5e83" />
+</p>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Lover</h3>
 
 ---
